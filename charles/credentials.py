@@ -6,9 +6,9 @@ import base64
 
 
 class MpesaC2bCredential:
-    consumer_key = ''
-    consumer_secret = ''
-    api_URL = ''
+    consumer_key = '77bgGpmlOxlgJu6oEXhEgUgnu0j2WYxA'
+    consumer_secret = 'viM8ejHgtEmtPTHd'
+    api_URL = 'https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials'
 
 
 class MpesaAccessToken:
